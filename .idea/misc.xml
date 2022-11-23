@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/Assignment/HD/Krishan/APP/Project/app/src/main/res/layout/activity_adminreg.xml" value="0.4796875" />
+        <entry key="..\:/Assignment/HD/Krishan/APP/Project/app/src/main/res/layout/activity_main.xml" value="0.4796875" />
+        <entry key="..\:/Assignment/Krishan/APP/Project/app/src/main/res/layout/activity_addnewconstruction.xml" value="0.33" />
+        <entry key="..\:/Assignment/Krishan/APP/Project/app/src/main/res/layout/activity_admin_function.xml" value="0.33" />
+        <entry key="..\:/Assignment/Krishan/APP/Project/app/src/main/res/layout/activity_adminhome.xml" value="0.33" />
+        <entry key="..\:/Assignment/Krishan/APP/Project/app/src/main/res/layout/activity_adminreg.xml" value="0.33" />
+        <entry key="..\:/Assignment/Krishan/APP/Project/app/src/main/res/layout/activity_calculatesalary.xml" value="0.33" />
+        <entry key="..\:/Assignment/Krishan/APP/Project/app/src/main/res/layout/activity_deletestaff.xml" value="0.33" />
+        <entry key="..\:/Assignment/Krishan/APP/Project/app/src/main/res/layout/activity_main.xml" value="0.33" />
+        <entry key="..\:/Assignment/Krishan/APP/Project/app/src/main/res/layout/activity_managemansonry.xml" value="0.33" />
+        <entry key="..\:/Assignment/Krishan/APP/Project/app/src/main/res/layout/activity_managesupervisor.xml" value="0.33" />
+        <entry key="..\:/Assignment/Krishan/APP/Project/app/src/main/res/layout/activity_manahemansonry.xml" value="0.3625" />
+        <entry key="..\:/Assignment/Krishan/APP/Project/app/src/main/res/layout/activity_markattendance.xml" value="0.3625" />
+        <entry key="..\:/Assignment/Krishan/APP/Project/app/src/main/res/layout/activity_suphome.xml" value="0.25" />
+        <entry key="..\:/Assignment/Krishan/APP/Project/app/src/main/res/layout/activity_viewstaff.xml" value="0.3625" />
+        <entry key="..\:/Assignment/Krishan/APP/Project/app/src/main/res/layout/adminlogin.xml" value="0.33" />
+        <entry key="..\:/Assignment/Krishan/APP/Project/app/src/main/res/layout/content_adminhome.xml" value="0.3619791666666667" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="Android Studio default JDK" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>
